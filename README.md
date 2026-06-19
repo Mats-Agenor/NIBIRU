@@ -7,7 +7,7 @@ perturbações e instabilidade dinâmica.
 
 Ao utilizar este código, por favor, cite o artigo Agenor et al. 2026 (DOI: xxx.xxx.xxx-xx).
 
---
+----
 
 This repository contains a numerical experiment of a simplified model of the
 Solar System to which a fictitious planet (“Nibiru”) with a long orbital period,
